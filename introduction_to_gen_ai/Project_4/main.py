@@ -1,8 +1,16 @@
 import openai
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 
-openai.api_key = "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"
+# Set your OpenAI API key here
+openai.api_key = os.getenv("MY_API_KEY")
+
+if openai.api_key:
+    print("API Key found:")
+else:
+    print("API Key not found.")
 
 def chat_with_gpt(prompt, model="gpt-3.5-turbo", max_tokens=100, temperature=0.7):
     """
@@ -14,7 +22,7 @@ def chat_with_gpt(prompt, model="gpt-3.5-turbo", max_tokens=100, temperature=0.7
     :return: Generated text
     """
     try:
-        client = openai.OpenAI()  
+        client = openai.OpenAI()  # Create OpenAI client instance
         response = client.chat.completions.create(
             model=model,
             messages=[{"role": "user", "content": prompt}],
