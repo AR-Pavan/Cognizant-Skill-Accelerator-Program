@@ -1,0 +1,9 @@
+Task: Write a Product Description
+Basic Prompt:
+"Write a product description for a new laptop."
+
+Refined Prompt:
+"Write a detailed product description for a new high-performance laptop. Include key features such as processor type, RAM, storage capacity, display size, and battery life. Highlight any unique selling points and use a tone that appeals to tech-savvy consumers."
+
+Role-Based Prompt:
+"Act as a tech reviewer and write a compelling product description for a new high-performance laptop aimed at gamers. Highlight features like the advanced graphics card, fast refresh rate display, and efficient cooling system. Use an enthusiastic tone and include comparisons with other gaming laptops in the market."
