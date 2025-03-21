@@ -1,0 +1,46 @@
+Chain of Thought Prompting:
+ 
+Step 1: Think about the theme of the poem.
+Step 2: Choose a poetic structure, such as a sonnet or free verse.
+Step 3: Write the first line of the poem.
+Step 4: Continue writing the poem, ensuring each line flows naturally from the last.
+Step 5: Conclude the poem with a strong finishing line.
+
+Theme: Nature's beauty
+Step 6: Turn to a traditional rhyme.
+Step 7: Find out how to use the letter as an introduction, and then apply it to a line of text.
+Step 8: Choose all words in the poem each of the words can
+
+Few-Shot Learning:
+ 
+Here are some examples of poetry:
+
+Example 1:
+The road not taken by Robert Frost
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+
+Example 2:
+She walks in beauty by Lord Byron
+She walks in beauty, like the night
+Of cloudless climes and starry skies;
+And all that's best of dark and bright
+Meet in her aspect and her eyes:
+
+Now, write a poem on the theme of 'Nature's beauty'.
+And you might not tell me much about us.
+The road not taken by Robert Frost
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+Two roads diverged in a yellow wood,
+And sorry I
+
+Role Play:
+ 
+Act as a renowned poet from the Romantic era. Compose a poem that captures the essence of 'Nature's beauty'. Ensure the language is rich and evocative, reflecting the style of the era.
+
+
+
+Read more from the author
