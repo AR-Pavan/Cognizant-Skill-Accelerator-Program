@@ -1,0 +1,18 @@
+Application Task
+
+Vague Prompt: "Write a story about life."
+Analysis of AI’s Response:
+* Issues:
+    1. Lack of specificity: The prompt is too broad, leading to a generic story without a clear focus.
+    2. No context: Without additional details, the AI may generate a story that doesn't align with the intended theme or audience.
+Refined Prompt: "Write a short story about a significant moment in a person's life that changed their perspective. Include details about the setting, characters, and the emotional impact of the event. Keep the story between 300-400 words."
+
+Case Study Activity
+Evaluation of Prompt: "Describe a scientific concept in detail."
+* Issues:
+    * Lack of specificity: It doesn't specify which scientific concept.
+    * No context: There's no guidance on the level of detail or the intended audience.
+Revised Prompt: "Act as a science educator and describe the concept of photosynthesis in detail. Explain the process, its importance, and provide examples of its application in everyday life. Ensure the explanation is suitable for high school students and keep it between 200-300 words."
+
+Reflection
+A poorly crafted prompt can lead to misunderstandings and irrelevant outputs, causing delays and errors in tasks. For example, in a research setting, a vague prompt might result in inaccurate data analysis, leading to incorrect conclusions. By applying debugging techniques such as breaking down the task and providing clear context, you can ensure the AI generates relevant and accurate outputs, improving efficiency and reducing errors.

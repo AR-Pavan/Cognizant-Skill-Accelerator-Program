@@ -1,0 +1,16 @@
+Application Task
+
+Prompt for Email Invitation:
+"Write a short email inviting coworkers to a weekend team-building event. Include details about the date, time, location, and a brief agenda. Use a friendly and engaging tone."
+
+Evaluation Metrics:
+
+Relevance: Does the email include all necessary details about the event?
+Completeness: Are all aspects of the invitation covered (date, time, location, agenda)?
+Clarity: Is the email easy to understand and follow?
+Accuracy: Are the details provided correct?
+Creativity: Does the email have an engaging tone and format?
+Efficiency: Is the email concise and to the point?
+
+Reflection:
+Evaluating prompt effectiveness can significantly improve productivity and reduce errors. By ensuring that prompts are clear, specific, and aligned with the task requirements, you can generate more accurate and relevant outputs. This reduces the need for revisions and enhances the overall quality of work, whether it's writing emails, generating reports, or brainstorming ideas.
