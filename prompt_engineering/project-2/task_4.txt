@@ -1,0 +1,19 @@
+Task: Generate a Catchy Slogan
+Basic Prompt:
+"Create a slogan for a new eco-friendly product."
+
+output:
+"Choose EcoPure: Good for You, Great for the Planet."
+
+Refined Prompt:
+"Create a catchy and memorable slogan for a new line of eco-friendly, reusable water bottles. Highlight the environmental benefits and the durability of the product. Use a tone that appeals to environmentally conscious consumers."
+
+output:
+"Hydrate Responsibly: Refill, Not Landfill with EcoPure Bottles!"
+
+
+Role-Based Prompt:
+"Act as a marketing specialist and create a compelling slogan for a new line of eco-friendly, reusable water bottles. Emphasize the product's sustainability and long-lasting quality. Use a tone that inspires consumers to make a positive environmental impact."
+
+output:
+"Refill. Reuse. Revive the Planet. 🌍💧"

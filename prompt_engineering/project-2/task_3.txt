@@ -1,0 +1,25 @@
+Task: Invitation Email for Team-Building Event
+Prompt:
+"Write an email inviting colleagues to a team-building event this weekend. Include details about the date, time, location, and a brief agenda. Use a friendly and engaging tone."
+
+Evaluation Metrics:
+
+Relevance: Does the email focus on the team-building event?
+Completeness: Are all necessary details (date, time, location, agenda) included?
+Clarity: Is the email easy to understand?
+Accuracy: Are the details correct?
+Creativity: Does the email have an engaging tone?
+Efficiency: Is the email concise?
+Scoring (1–5 scale):
+
+Relevance: 5
+Completeness: 5
+Clarity: 5
+Accuracy: 5
+Creativity: 4
+Efficiency: 5
+Total Score: 29/30
+
+Refined Prompt:
+"Write an email inviting colleagues to a team-building event this weekend. Include the date, time, location, and a brief agenda. Use a friendly tone and add a fun fact or interesting activity to make the invitation more engaging."
+

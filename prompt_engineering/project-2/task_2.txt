@@ -1,0 +1,11 @@
+Task: Explain Quantum Physics with Jokes
+Vague Prompt:
+"Explain quantum physics and include jokes."
+
+Analysis of Response:
+
+Issues:
+Too broad: Quantum physics is a complex topic, and without specifying which aspects to focus on, the explanation might be too general.
+Lack of context for jokes: It's unclear what kind of jokes to include or how they should relate to quantum physics.
+Refined Prompt:
+"Explain the concept of superposition in quantum physics in a way that is accessible to a general audience. Include a couple of light-hearted jokes related to the uncertainty or weirdness of quantum mechanics to make the explanation engaging."
