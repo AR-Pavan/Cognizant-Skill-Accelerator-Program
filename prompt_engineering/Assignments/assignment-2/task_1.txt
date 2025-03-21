@@ -1,0 +1,12 @@
+Application Task
+
+Basic Prompt:
+"Write a product description for a smartphone."
+
+Refined Prompt:
+"Act as a marketing specialist and write a compelling product description for a new smartphone. Include key features such as camera quality, battery life, and processing speed. Use an engaging tone and keep the description between 150-200 words. Here's an example:
+
+'Introducing the TechStar X10, your ultimate companion for seamless connectivity and stunning visuals. With a 48MP triple-lens camera, capture every moment in vivid detail. Enjoy all-day power with our advanced 5000mAh battery and experience lightning-fast performance with the latest octa-core processor.'"
+
+Reflection
+Prompt optimization can significantly streamline tasks like writing emails or generating reports. By crafting clear and specific prompts, you can ensure that the AI generates relevant and accurate content, reducing the need for manual edits. This not only saves time but also enhances the quality and consistency of the output. For example, when writing emails, a well-optimized prompt can help maintain a professional tone and include all necessary details, making communication more effective and efficient.
